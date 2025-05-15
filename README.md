@@ -82,7 +82,5 @@ For any questions or clarifications, feel free to raise an issue in this reposit
 
 ---
 
-**Submitted for:** ATP-3XX Cognitive Science Project  
-**Dataset Assigned:** `D3-6`  
 
 
